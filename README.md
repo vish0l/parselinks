@@ -7,7 +7,7 @@
 
 ## How to use
 
-###to parse and print link
+### to parse and print link
 ``` 
 from parselinks import get_links
 
