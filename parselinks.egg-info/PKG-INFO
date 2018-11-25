@@ -2,11 +2,15 @@ Metadata-Version: 2.1
 Name: parselinks
 Version: 0.0.1
 Summary: Simple python module to extract links from pages.
-Home-page: https://github.com/venins/parselinks
+Home-page: https://github.com/venins/pa
 Author: vishal singh
 Author-email: vishaldsingh06@gmail.com
 License: UNKNOWN
-Description: parselinks
+Description: #parselinks - parse links from webpage, pdf, and other file formate etc
+        
+        
+        
+        
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

@@ -11,8 +11,9 @@ setuptools.setup(
     description="Simple python module to extract links from pages.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/venins/parselinks",
-    packages=['lxml==4.2.5', 'requests==2.20.1'],
+    url="https://github.com/venins/pa",
+    packages=setuptools.find_packages(),
+    install_requires=['requests==2.20.1', 'lxml==4.2.5'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

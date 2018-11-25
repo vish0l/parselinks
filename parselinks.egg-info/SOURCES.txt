@@ -8,4 +8,5 @@ parselinks/parser.py
 parselinks.egg-info/PKG-INFO
 parselinks.egg-info/SOURCES.txt
 parselinks.egg-info/dependency_links.txt
+parselinks.egg-info/requires.txt
 parselinks.egg-info/top_level.txt
