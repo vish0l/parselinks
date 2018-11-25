@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/venins/parselinks",
-    packages=setuptools.find_packages(),
+    packages=['lxml==4.2.5', 'requests==2.20.1'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
